@@ -7,5 +7,5 @@ Irene Mendoza is the main beneficiary of the TEMPNET Action.
 ```{r photo_perso, echo = F}
 library(knitr)
 
-include_graphics("photos/Irene_photo.jpg")
+include_graphics("photos/Irene_photo2.jpg")
 ```
