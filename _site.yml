@@ -1,4 +1,5 @@
 name: "TEMPNET Project MSCA"
+output_dir: "docs"
 navbar:
   title: "My Website"
   left:
