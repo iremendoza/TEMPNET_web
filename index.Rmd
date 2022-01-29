@@ -2,13 +2,20 @@
 title: "TEMPNET Action"
 ---
 
-```{r photo_import, echo = F}
+```{r logo_import, echo = F, fig.width = 3, fig.height= 3}
 library(knitr)
 
-include_graphics("photos/logo_provisional_TEMPNET.jpg")
+include_graphics("photos/logoTempnet._final.png")
+
 ```
 
 TEMPNET Action aims at providing a deep understanding on how phenological changes in interacting plant and animals affect their dynamics over seasonal and long-term timespans. Given the current ecological crisis in which we are immersed, unveiling the complexity of ecological interactions is fundamental for biodiversity conservation. For this, we have combined state-of-the-art mathematical advances in multilayer network analysis, sound ecological theory, and field observations.
 
-TEMPNET has been funded by a Marie S. Curie Individual Fellowship by the European Research Council (798269 — TEMPNET — H2020-MSCA-IF-2017)
+TEMPNET project has received funding from the European Union’s Horizon 2020 research and innovation
+programme under the Marie Sklodowska-Curie grant agreement No 798269. 
 
+
+```{r EUlogo_import, echo = F, fig.width = 4, fig.height= 4}
+
+include_graphics("photos/ec-logo-st-rvb-web_en.jpg")
+```
