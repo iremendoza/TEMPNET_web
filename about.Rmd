@@ -10,12 +10,12 @@ library(knitr)
 include_graphics("photos/Irene_photo2.jpg")
 ```
 
-#SHORT BIO
+### **SHORT BIO**
 
 I am an ecologist broadly interested in understanding how ecological processes respond to global change. I have focused throughout my whole career on the study of human-derived impacts on the timing of the life cycles of organisms (phenology), ecological interactions, biodiversity maintenance, and ecosystem services. My last purpose is to use this knowledge to forecast future changes of ecosystems derived from human activities and give scientific support to policymakers and managers. 
 
 My research has been carried out in a broad range of ecosystem types, although I have especially worked in the tropics and the Mediterranean Basin. I have used as study systems a different array of organisms, including plants, birds, insects, and mammals with a hierarchy of scales: from field plots to entire continents, and from species to communities. I use a combination of field observations, analyses of long-term data series, experiments, lab work, new technologies, and compelling modeling techniques, including Bayesian hierarchical analyses and multilayer networks. 
 
-Although I have always worked with plant-animal interactions in general and seed dispersal by frugivores in particular, my research interests have progressively shifted from forest regeneration and recruitment limitations during my Ph.D. to climatic drivers of fruit phenology during subsequent postdoctoral projects in France and Brazil. 
+Although I have always worked with plant-animal interactions in general and seed dispersal by frugivores in particular, my research interests have progressively shifted from forest regeneration and recruitment limitations during my Ph.D. to climatic drivers of fruit phenology during subsequent postdoctoral projects in France, Brazil, and Spain. 
 
 *TEMPNET* postdoctoral project at Doñana Biological Station (EBD) is aimed at evaluating how long-term temporal changes in both the community of interacting plants and animals affect the dynamics of ecological networks. 
