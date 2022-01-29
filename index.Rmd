@@ -11,7 +11,7 @@ include_graphics("photos/logoTempnet._final.png")
 
 TEMPNET Action aims at providing a deep understanding on how phenological changes in interacting plant and animals affect their dynamics over seasonal and long-term timespans. Given the current ecological crisis in which we are immersed, unveiling the complexity of ecological interactions is fundamental for biodiversity conservation. For this, we have combined state-of-the-art mathematical advances in multilayer network analysis, sound ecological theory, and field observations.
 
-TEMPNET project has received funding from the European Union’s Horizon 2020 research and innovation
+*TEMPNET* project has received funding from the European Union’s Horizon 2020 research and innovation
 programme under the Marie Sklodowska-Curie grant agreement No 798269. 
 
 
@@ -19,3 +19,6 @@ programme under the Marie Sklodowska-Curie grant agreement No 798269.
 
 include_graphics("photos/ec-logo-st-rvb-web_en.jpg")
 ```
+
+### **RESULTS**
+We have recently published the first publication derived from TEMPNET in *Oikos* journal. You can read it in this [link](https://doi.org/10.1111/oik.08387)
