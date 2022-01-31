@@ -17,7 +17,7 @@ programme under the Marie Sklodowska-Curie grant agreement No 798269.
 
 ```{r EUlogo_import, echo = F, fig.width = 4, fig.height= 4}
 
-include_graphics("photos/ec-logo-st-rvb-web_en.jpg")
+include_graphics("photos/normal-reproduction-high-resolution.jpg")
 ```
 
 ### **RESULTS**
